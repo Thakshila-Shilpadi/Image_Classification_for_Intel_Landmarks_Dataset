@@ -30,7 +30,7 @@ Model Evaluation and Prediction: 🔍 Testing the trained model on unseen images
 ## 🚀 How to Use:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Intel-Image-Classification.git
+   git clone https://github.com/thakshilashilpadi/Intel-Image-Classification.git
 2. Install the required libraries:
    pip install -r requirements.txt
 3. Run the notebook: Open the Intel_Image_Classification.ipynb notebook and follow the steps to train the model and generate predictions.
